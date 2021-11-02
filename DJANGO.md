@@ -81,3 +81,27 @@ urlpatterns = [
 ]
 
 This means that if there is no path it will automatically direct to the main/urls.py file. This opens the main urls.py file and cross references against the url patterns function define in there. The path with the matching path is the homepage. In this instance (from function above is views.index.
+
+
+# changing settings.py
+
+This controls the installed apps and middleware.
+
+To add a new app modifiy the INSTALLED_APPS list
+
+E.g. add 'APPNAME.apps.APPNAMEConfig' to the list
+
+
+## Applying changes
+Once the settings.py has been changed the changes must be pushed to the app. this is done by: #cmd 
+1. open a command prompt and change directory into PROJECTNAME folder
+2. run: python manage.py migrate
+
+This makes any changes to the project as it needs to.
+ 
+
+# sqlite3 [[database]]
+
+models must be defined for your database
+
+models are created using #classes [[python]]

@@ -100,8 +100,9 @@
   "active": "5fe5ecb21bb88c00",
   "lastOpenFiles": [
     "DJANGO.md",
-    "installation.md",
     "python.md",
+    "database.md",
+    "installation.md",
     "web developement.md",
     "cmd.md",
     "Untitled.md",
