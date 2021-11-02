@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "e14e663a6b29127e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe5ecb21bb88c00",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DJANGO.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f5cd1a4d684c7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "06553ffba0ce88bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f14c207d29d6a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ca4d0dfd894dd2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cmd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ede858a74cfbec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e99c40a9bd249756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4faa984bd33920de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DJANGO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b15b9b18edc2bd35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5fe5ecb21bb88c00",
+  "lastOpenFiles": [
+    "DJANGO.md",
+    "installation.md",
+    "python.md",
+    "web developement.md",
+    "cmd.md",
+    "Untitled.md",
+    "README.md"
+  ]
+}
