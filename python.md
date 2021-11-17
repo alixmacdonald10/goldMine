@@ -37,6 +37,8 @@ when used in an #import . means import from current directory. ex:
  means import every function and class from scipy.optimise
  
  
- ## object oriented programming #OOP
+ ## object oriented programming #OOP [[object_oriented_design]]
  
+ 
+ allows #multipleinheritance [[object_oriented_design]]
  
