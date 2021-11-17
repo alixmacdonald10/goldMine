@@ -1,3 +1,3 @@
 # database information
 
-## sqlite3 [[django]]
+## sqlite3 [[django]] [[SQL]]

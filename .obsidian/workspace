@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DJANGO.md",
+            "file": "python.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 136
   },
   "right": {
     "id": "0ede858a74cfbec4",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DJANGO.md",
+                "file": "python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "5fe5ecb21bb88c00",
   "lastOpenFiles": [
-    "DJANGO.md",
     "python.md",
+    "SQL.md",
     "database.md",
+    "Docker.md",
+    "consulting.md",
+    "DJANGO.md",
     "installation.md",
     "web developement.md",
     "cmd.md",
-    "Untitled.md",
     "README.md"
   ]
 }

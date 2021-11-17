@@ -34,4 +34,9 @@ when used in an #import . means import from current directory. ex:
  
  from scipy.optimise import *
  
- means import every function and class from scipy.optimise.
+ means import every function and class from scipy.optimise
+ 
+ 
+ ## object oriented programming #OOP
+ 
+ 
